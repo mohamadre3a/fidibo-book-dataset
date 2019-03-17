@@ -12,5 +12,11 @@ there are 5 columns in this dataset and Nan values are coded as a 'nan' string. 
 * isbn - ISBN of books
 * paper_price - Price of paper books which is more expensive than fidibo price
 * price - Actual price of books in fidibo website
+* page - number of pages in paper book
+* rating - rating of book voted by users in fidibo website
 * publisher - Publisher of books in persian
 
+## Todo
+
+* add sql format
+* add rating count column
